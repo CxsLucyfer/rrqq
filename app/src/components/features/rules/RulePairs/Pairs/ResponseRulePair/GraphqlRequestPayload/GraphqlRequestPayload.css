@@ -1,0 +1,32 @@
+.graphql-operation-label {
+  font-weight: 500;
+  margin-bottom: 12px;
+  color: var(--white);
+  display: inline-flex;
+  align-items: center;
+  column-gap: 6px;
+}
+
+.graphql-operation-label .anticon {
+  display: inline-flex;
+  align-items: center;
+  color: var(--text-gray);
+}
+
+.graphql-operation-key-input.ant-input {
+  margin-right: 5px;
+}
+
+.graphql-operation-key-input.ant-input,
+.graphql-operation-name-input.ant-input {
+  background-color: var(--component-dark-background);
+}
+
+.graphql-operation-filter-operator {
+  height: 100%;
+  width: 100%;
+}
+
+.graphql-operation-filter-reset-button.ant-btn {
+  height: 38px;
+}
