@@ -46,13 +46,13 @@
     "typescript": "^4.8.4"
   },
   "dependencies": {
-    "@ant-design/icons": "^4.8.0",
+    "@ant-design/icons": "^6.0.0",
     "@devtools-ds/navigation": "^1.2.1",
     "@devtools-ds/object-inspector": "^1.2.1",
     "@devtools-ds/table": "^1.2.1",
     "@devtools-ds/themes": "^1.2.1",
     "@monaco-editor/react": "^4.5.2",
-    "antd": "^5.0.4",
+    "antd": "^5.12.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-split": "^2.0.14",
